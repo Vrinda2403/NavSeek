@@ -5,7 +5,6 @@ Visually impaired individuals face significant challenges in independent navigat
 
 NavSeek is a wearable, AI-powered assistive navigation system designed to act as an artificial vision aid. It provides real-time, 180-degree environmental awareness by combining computer vision and proximity sensing. The system converts environmental information into clear, prioritized, and direction-specific audio guidance, enabling safer and more independent navigation.
 
-This project is developed as part of the Microsoft Azure Hackathon, focusing on AI for Accessibility, Responsible AI, and Social Impact.
 
 ## Problem Statement
 Visually impaired users often struggle with detecting obstacles beyond immediate proximity, lack awareness of left, right, and rear hazards, experience audio overload from excessive alerts, and remain dependent on external assistance for safe navigation.
@@ -43,7 +42,3 @@ git clone https://github.com/vrinda2403/navseek.git
 cd navseek
 
 
-##Conributors
-- Vrinda Sharma
-- Tanisha
-- Kartik Singh
