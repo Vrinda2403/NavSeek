@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Slider Customization */
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 24px;
+  height: 24px;
+  background: #facc15;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(250, 204, 21, 0.8);
+  cursor: pointer;
+}
+
+/* Base Body Color to prevent white flashes */
+body {
+  background-color: black;
+  color-scheme: dark;
+}
